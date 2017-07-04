@@ -1,0 +1,8 @@
+D:\Projects\My_Projects\AverageDollarPriceObtainer\AverageDollarPriceObtainer\bin\Debug\AverageDollarPriceObtainer.exe.config
+D:\Projects\My_Projects\AverageDollarPriceObtainer\AverageDollarPriceObtainer\bin\Debug\AverageDollarPriceObtainer.exe
+D:\Projects\My_Projects\AverageDollarPriceObtainer\AverageDollarPriceObtainer\bin\Debug\AverageDollarPriceObtainer.pdb
+D:\Projects\My_Projects\AverageDollarPriceObtainer\AverageDollarPriceObtainer\obj\Debug\AverageDollarPriceObtainer.csprojResolveAssemblyReference.cache
+D:\Projects\My_Projects\AverageDollarPriceObtainer\AverageDollarPriceObtainer\obj\Debug\AverageDollarPriceObtainer.exe
+D:\Projects\My_Projects\AverageDollarPriceObtainer\AverageDollarPriceObtainer\obj\Debug\AverageDollarPriceObtainer.pdb
+D:\Projects\My_Projects\AverageDollarPriceObtainer\AverageDollarPriceObtainer\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\My_Projects\AverageDollarPriceObtainer\AverageDollarPriceObtainer\bin\Debug\Newtonsoft.Json.xml
